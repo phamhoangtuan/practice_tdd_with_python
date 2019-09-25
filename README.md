@@ -10,3 +10,12 @@ Activate virtual environment:
 
 Install packages: 
 - pip install -r requirements.txt
+
+Start django server:
+- python manage.py runserver
+
+Run the functional tests:
+- python functional_tests.py
+
+Run the unit tests:
+- python manage.py test
