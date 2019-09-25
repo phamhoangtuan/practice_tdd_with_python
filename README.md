@@ -19,3 +19,6 @@ Run the functional tests:
 
 Run the unit tests:
 - python manage.py test
+
+Migrate database:
+- python manage.py makemigrations
