@@ -10,6 +10,7 @@ Activate virtual environment:
 
 Install packages: 
 - pip install -r requirements.txt
+- download geckodriver at https://github.com/mozilla/geckodriver/releases and extract to /usr/local/bin folder
 
 Start django server:
 - python manage.py runserver
