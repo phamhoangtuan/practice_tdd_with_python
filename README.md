@@ -22,3 +22,4 @@ Run the unit tests:
 
 Migrate database:
 - python manage.py makemigrations
+- python manage.py migrate
