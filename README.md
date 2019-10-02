@@ -16,7 +16,7 @@ Start django server:
 - python manage.py runserver
 
 Run the functional tests:
-- python functional_tests.py
+- python manage.py test functional_tests
 
 Run the unit tests:
 - python manage.py test
