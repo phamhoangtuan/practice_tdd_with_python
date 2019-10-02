@@ -19,7 +19,7 @@ Run the functional tests:
 - python manage.py test functional_tests
 
 Run the unit tests:
-- python manage.py test
+- python manage.py test lists
 
 Migrate database:
 - python manage.py makemigrations
